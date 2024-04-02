@@ -1,4 +1,4 @@
-# Folder Tree
+# Folders Tree
 ```
 .
 ├── README.md
