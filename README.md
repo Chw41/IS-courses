@@ -1,4 +1,6 @@
-# course
+# IS-courses
+Record of Cybersecurity Courses and Security Design Sessions. Documentation of NTUT Network and System Security CTF Exam, NTUST Penetration Testing Course, and NISRA Club Courses.
+
 ## Folders Tree
 ```
 .
